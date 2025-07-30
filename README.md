@@ -61,5 +61,7 @@ To build a **portfolio-ready Power BI project** that demonstrates:
 
 ## 📸 Screenshots & Demo
 
-![Netflix Dashboard](https://github.com/rmuskann/StreamingAnalytics/blob/main/Netflix%20Insights.png)
-![Prime Dashboard](https://github.com/rmuskann/StreamingAnalytics/blob/main/Prime%20Insights.png             )
+![Netflix Dashboard]
+(https://github.com/rmuskann/StreamingAnalytics/blob/main/Netflix%20Insights.png)
+![Prime Dashboard]
+(https://github.com/rmuskann/StreamingAnalytics/blob/main/Prime%20Insights.png)
