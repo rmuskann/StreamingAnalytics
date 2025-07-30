@@ -4,9 +4,6 @@ An interactive Power BI dashboard to analyze, compare, and visualize streaming t
 
 ## 🧭 Structure & Navigation
 
-- **Home / Landing Page**  
-  Navigation to both platform dashboards via logo buttons.
-
 - **Netflix Dashboard**  
   Analysis specific to Netflix content (genre, type, ratings, duration, etc.)
 
@@ -64,5 +61,5 @@ To build a **portfolio-ready Power BI project** that demonstrates:
 
 ## 📸 Screenshots & Demo
 
-![Netflix Dashboard](images/netflix_.png)
-![Prime Dashboard](images/prime_dashboard.png)
+![Netflix Dashboard](https://github.com/rmuskann/StreamingAnalytics/blob/main/Netflix%20Insights.png)
+![Prime Dashboard](https://github.com/rmuskann/StreamingAnalytics/blob/main/Prime%20Insights.png             )
